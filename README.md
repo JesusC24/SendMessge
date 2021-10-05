@@ -1,4 +1,5 @@
 <h1>Ejercicio SendMessage</h1>
+
 En este ejercicio hemos practicado todo el contendio de la sección [Entorno de Desarrollo (Tema 2 DEINT)](https://moronlu18.com/wordpress/courses/deint/1702/)
 
 * Software a instalar
@@ -12,7 +13,4 @@ En este ejercicio hemos practicado todo el contendio de la sección [Entorno de 
 * Depurar de Android Studio
 * Publicar en la plataforma GitHub
 
-Imagen de la primera <code>Activity</code> de mi aplicación: [](img/SendMessageActivity.png)
-
-
-
+Imagen de la primera <code>Activity</code> de mi aplicación: ![Imagen de la primera Activity](img/SendMessageActivity.png)
